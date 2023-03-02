@@ -24,15 +24,10 @@ This is a assignment given in "Full Stack web development" course by PWSKILLS, b
 ## 📌 My process
 
 - I joined a **Full Stack web development** course by **PWSKILLS**.<a href="https://pwskills.com/"> **Check🚀 (Not Sponsered)**</a>
-- It took me about **2 hours** to complete this project.
+- It took me about **6-8 hours** to complete this project.
 - This is my sixth Assignment project.
 
-## 📌 What I Learn
-
-👉 Learn about how to build project.
-👉 Learn more about `flex` property of CSS.  
-
-
+ 
 ## 📬 Connect With Me
 
 - **LinkedIn** - [Chirag Solanki](https://www.linkedin.com/in/chiragagu6/)
@@ -40,4 +35,3 @@ This is a assignment given in "Full Stack web development" course by PWSKILLS, b
 ## 📌 Acknowledgments
 
 - Course Instructor - [Hitesh Choudhary](https://github.com/hiteshchoudhary)
-- This ReadMe File Inspired From - [prakash-naikwadi](https://github.com/prakash-naikwadi/)
