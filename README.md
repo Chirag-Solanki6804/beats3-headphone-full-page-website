@@ -21,12 +21,6 @@ This is a assignment given in "Full Stack web development" course by PWSKILLS, b
 
 ![Alt Image text](/Images/project-6.png?raw=true "Optional Title")
 
-## 📌 My process
-
-- I joined a **Full Stack web development** course by **PWSKILLS**.<a href="https://pwskills.com/"> **Check🚀 (Not Sponsered)**</a>
-- It took me about **4-5 hours** to complete this project.
-- This is my sixth Assignment project.
-
  
 ## 📬 Connect With Me
 
